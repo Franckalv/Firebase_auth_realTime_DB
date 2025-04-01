@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practico2_DSM</string>
+    <string-array name="status_options">
+        <item>pendiente</item>
+        <item>completada</item>
+    </string-array>
+</resources>
